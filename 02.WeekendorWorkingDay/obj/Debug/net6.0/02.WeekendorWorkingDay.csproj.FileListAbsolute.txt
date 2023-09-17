@@ -1,0 +1,14 @@
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net6.0\02.WeekendorWorkingDay.exe
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net6.0\02.WeekendorWorkingDay.deps.json
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net6.0\02.WeekendorWorkingDay.runtimeconfig.json
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net6.0\02.WeekendorWorkingDay.dll
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\net6.0\02.WeekendorWorkingDay.pdb
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\02.WeekendorWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\02.WeekendorWorkingDay.AssemblyInfoInputs.cache
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\02.WeekendorWorkingDay.AssemblyInfo.cs
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\02.WeekendorWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\02.WeekendorWorkingDay.dll
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\refint\02.WeekendorWorkingDay.dll
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\02.WeekendorWorkingDay.pdb
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\02.WeekendorWorkingDay.genruntimeconfig.cache
+C:\Users\chavd\source\repos\03.ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\net6.0\ref\02.WeekendorWorkingDay.dll
